@@ -1,0 +1,11 @@
+{
+  "name": "cv_web",
+  "version": "1.0.0",
+  "description": "my cv",
+  "main": "index.js",
+  "author": "Greg",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
